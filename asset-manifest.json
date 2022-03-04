@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Nicks_Guitar_Shop/static/css/main.74a63910.chunk.css",
-    "main.js": "/Nicks_Guitar_Shop/static/js/main.fd9c40c8.chunk.js",
-    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.fd9c40c8.chunk.js.map",
+    "main.css": "/Nicks_Guitar_Shop/static/css/main.94f84a37.chunk.css",
+    "main.js": "/Nicks_Guitar_Shop/static/js/main.08c9889e.chunk.js",
+    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.08c9889e.chunk.js.map",
     "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js",
     "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js.map",
     "static/css/2.6293a573.chunk.css": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css",
@@ -12,9 +12,9 @@
     "static/js/3.5486195e.chunk.js.map": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js.map",
     "index.html": "/Nicks_Guitar_Shop/index.html",
     "static/css/2.6293a573.chunk.css.map": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css.map",
-    "static/css/main.74a63910.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.74a63910.chunk.css.map",
+    "static/css/main.94f84a37.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.94f84a37.chunk.css.map",
     "static/js/2.86453a6e.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.86453a6e.chunk.js.LICENSE.txt",
-    "static/media/Store.css": "/Nicks_Guitar_Shop/static/media/pexels-photo-691668.2013dd5c.jpeg",
+    "static/media/Store.css": "/Nicks_Guitar_Shop/static/media/apolo-photographer-DNAPFksOyl8-unsplash.959d98d9.jpg",
     "static/media/hope.34969d44.mp4": "/Nicks_Guitar_Shop/static/media/hope.34969d44.mp4",
     "static/media/logo-2287665_1920.f1b0c6ce.png": "/Nicks_Guitar_Shop/static/media/logo-2287665_1920.f1b0c6ce.png",
     "static/media/logo.6ce24c58.svg": "/Nicks_Guitar_Shop/static/media/logo.6ce24c58.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.b0282f53.js",
     "static/css/2.6293a573.chunk.css",
     "static/js/2.86453a6e.chunk.js",
-    "static/css/main.74a63910.chunk.css",
-    "static/js/main.fd9c40c8.chunk.js"
+    "static/css/main.94f84a37.chunk.css",
+    "static/js/main.08c9889e.chunk.js"
   ]
 }
