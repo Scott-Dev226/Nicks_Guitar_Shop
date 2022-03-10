@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nicks_Guitar_Shop/static/css/main.a90cf694.chunk.css",
-    "main.js": "/Nicks_Guitar_Shop/static/js/main.001dd55a.chunk.js",
-    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.001dd55a.chunk.js.map",
+    "main.js": "/Nicks_Guitar_Shop/static/js/main.b2242531.chunk.js",
+    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.b2242531.chunk.js.map",
     "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js",
     "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js.map",
     "static/css/2.6293a573.chunk.css": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.6293a573.chunk.css",
     "static/js/2.8e63dcbb.chunk.js",
     "static/css/main.a90cf694.chunk.css",
-    "static/js/main.001dd55a.chunk.js"
+    "static/js/main.b2242531.chunk.js"
   ]
 }
