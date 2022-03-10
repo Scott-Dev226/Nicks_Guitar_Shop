@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/Nicks_Guitar_Shop/static/css/main.94f84a37.chunk.css",
-    "main.js": "/Nicks_Guitar_Shop/static/js/main.08c9889e.chunk.js",
-    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.08c9889e.chunk.js.map",
+    "main.css": "/Nicks_Guitar_Shop/static/css/main.a90cf694.chunk.css",
+    "main.js": "/Nicks_Guitar_Shop/static/js/main.5cf7b6ce.chunk.js",
+    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.5cf7b6ce.chunk.js.map",
     "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js",
     "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js.map",
     "static/css/2.6293a573.chunk.css": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css",
-    "static/js/2.86453a6e.chunk.js": "/Nicks_Guitar_Shop/static/js/2.86453a6e.chunk.js",
-    "static/js/2.86453a6e.chunk.js.map": "/Nicks_Guitar_Shop/static/js/2.86453a6e.chunk.js.map",
+    "static/js/2.8e63dcbb.chunk.js": "/Nicks_Guitar_Shop/static/js/2.8e63dcbb.chunk.js",
+    "static/js/2.8e63dcbb.chunk.js.map": "/Nicks_Guitar_Shop/static/js/2.8e63dcbb.chunk.js.map",
     "static/js/3.5486195e.chunk.js": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js",
     "static/js/3.5486195e.chunk.js.map": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js.map",
     "index.html": "/Nicks_Guitar_Shop/index.html",
     "static/css/2.6293a573.chunk.css.map": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css.map",
-    "static/css/main.94f84a37.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.94f84a37.chunk.css.map",
-    "static/js/2.86453a6e.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.86453a6e.chunk.js.LICENSE.txt",
+    "static/css/main.a90cf694.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.a90cf694.chunk.css.map",
+    "static/js/2.8e63dcbb.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.8e63dcbb.chunk.js.LICENSE.txt",
     "static/media/Store.css": "/Nicks_Guitar_Shop/static/media/apolo-photographer-DNAPFksOyl8-unsplash.959d98d9.jpg",
     "static/media/hope.34969d44.mp4": "/Nicks_Guitar_Shop/static/media/hope.34969d44.mp4",
     "static/media/logo-2287665_1920.f1b0c6ce.png": "/Nicks_Guitar_Shop/static/media/logo-2287665_1920.f1b0c6ce.png",
     "static/media/logo.6ce24c58.svg": "/Nicks_Guitar_Shop/static/media/logo.6ce24c58.svg",
-    "static/media/Register.css": "/Nicks_Guitar_Shop/static/media/nii-a_sjYst1xJo-unsplash.500b8b56.jpg",
     "static/media/real_weeb_logo.5ad70a48.png": "/Nicks_Guitar_Shop/static/media/real_weeb_logo.5ad70a48.png",
     "static/media/sword-jump2.980801b4.png": "/Nicks_Guitar_Shop/static/media/sword-jump2.980801b4.png",
     "static/media/tattoo_1.b7da95de.jpg": "/Nicks_Guitar_Shop/static/media/tattoo_1.b7da95de.jpg",
@@ -32,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0282f53.js",
     "static/css/2.6293a573.chunk.css",
-    "static/js/2.86453a6e.chunk.js",
-    "static/css/main.94f84a37.chunk.css",
-    "static/js/main.08c9889e.chunk.js"
+    "static/js/2.8e63dcbb.chunk.js",
+    "static/css/main.a90cf694.chunk.css",
+    "static/js/main.5cf7b6ce.chunk.js"
   ]
 }
