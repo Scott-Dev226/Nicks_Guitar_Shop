@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Nicks_Guitar_Shop/static/css/main.daeedc25.chunk.css",
-    "main.js": "/Nicks_Guitar_Shop/static/js/main.88746249.chunk.js",
-    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.88746249.chunk.js.map",
+    "main.js": "/Nicks_Guitar_Shop/static/js/main.2ab32dce.chunk.js",
+    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.2ab32dce.chunk.js.map",
     "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js",
     "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js.map",
     "static/css/2.6293a573.chunk.css": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css",
-    "static/js/2.8e63dcbb.chunk.js": "/Nicks_Guitar_Shop/static/js/2.8e63dcbb.chunk.js",
-    "static/js/2.8e63dcbb.chunk.js.map": "/Nicks_Guitar_Shop/static/js/2.8e63dcbb.chunk.js.map",
+    "static/js/2.d82b3390.chunk.js": "/Nicks_Guitar_Shop/static/js/2.d82b3390.chunk.js",
+    "static/js/2.d82b3390.chunk.js.map": "/Nicks_Guitar_Shop/static/js/2.d82b3390.chunk.js.map",
     "static/js/3.5486195e.chunk.js": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js",
     "static/js/3.5486195e.chunk.js.map": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js.map",
     "index.html": "/Nicks_Guitar_Shop/index.html",
     "static/css/2.6293a573.chunk.css.map": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css.map",
     "static/css/main.daeedc25.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.daeedc25.chunk.css.map",
-    "static/js/2.8e63dcbb.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.8e63dcbb.chunk.js.LICENSE.txt",
+    "static/js/2.d82b3390.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.d82b3390.chunk.js.LICENSE.txt",
     "static/media/Store.css": "/Nicks_Guitar_Shop/static/media/apolo-photographer-DNAPFksOyl8-unsplash.959d98d9.jpg",
     "static/media/hope.34969d44.mp4": "/Nicks_Guitar_Shop/static/media/hope.34969d44.mp4",
     "static/media/logo-2287665_1920.f1b0c6ce.png": "/Nicks_Guitar_Shop/static/media/logo-2287665_1920.f1b0c6ce.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0282f53.js",
     "static/css/2.6293a573.chunk.css",
-    "static/js/2.8e63dcbb.chunk.js",
+    "static/js/2.d82b3390.chunk.js",
     "static/css/main.daeedc25.chunk.css",
-    "static/js/main.88746249.chunk.js"
+    "static/js/main.2ab32dce.chunk.js"
   ]
 }
