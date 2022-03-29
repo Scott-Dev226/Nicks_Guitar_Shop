@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Nicks_Guitar_Shop/static/css/main.b57ac037.chunk.css",
-    "main.js": "/Nicks_Guitar_Shop/static/js/main.5934628b.chunk.js",
-    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.5934628b.chunk.js.map",
+    "main.css": "/Nicks_Guitar_Shop/static/css/main.581ad06e.chunk.css",
+    "main.js": "/Nicks_Guitar_Shop/static/js/main.7dd59154.chunk.js",
+    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.7dd59154.chunk.js.map",
     "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js",
     "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js.map",
     "static/css/2.6293a573.chunk.css": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css",
@@ -12,13 +12,13 @@
     "static/js/3.5486195e.chunk.js.map": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js.map",
     "index.html": "/Nicks_Guitar_Shop/index.html",
     "static/css/2.6293a573.chunk.css.map": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css.map",
-    "static/css/main.b57ac037.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.b57ac037.chunk.css.map",
+    "static/css/main.581ad06e.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.581ad06e.chunk.css.map",
     "static/js/2.cb9a043f.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.cb9a043f.chunk.js.LICENSE.txt",
     "static/media/Store.css": "/Nicks_Guitar_Shop/static/media/apolo-photographer-DNAPFksOyl8-unsplash.959d98d9.jpg",
     "static/media/Login.css": "/Nicks_Guitar_Shop/static/media/diego-catto-DI6ywiG5N0g-unsplash.a05d7043.jpg",
     "static/media/hope.34969d44.mp4": "/Nicks_Guitar_Shop/static/media/hope.34969d44.mp4",
-    "static/media/logo-2287665_1920.dd042f8e.png": "/Nicks_Guitar_Shop/static/media/logo-2287665_1920.dd042f8e.png",
     "static/media/logo.6ce24c58.svg": "/Nicks_Guitar_Shop/static/media/logo.6ce24c58.svg",
+    "static/media/pngaaa.com-162083.9f64cdb1.png": "/Nicks_Guitar_Shop/static/media/pngaaa.com-162083.9f64cdb1.png",
     "static/media/pngaaa.com-2325497.7ce88f22.png": "/Nicks_Guitar_Shop/static/media/pngaaa.com-2325497.7ce88f22.png",
     "static/media/real_weeb_logo.5ad70a48.png": "/Nicks_Guitar_Shop/static/media/real_weeb_logo.5ad70a48.png",
     "static/media/Register.css": "/Nicks_Guitar_Shop/static/media/ruggero-guttilla-p5_39jCsJRo-unsplash.15f495ec.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.b0282f53.js",
     "static/css/2.6293a573.chunk.css",
     "static/js/2.cb9a043f.chunk.js",
-    "static/css/main.b57ac037.chunk.css",
-    "static/js/main.5934628b.chunk.js"
+    "static/css/main.581ad06e.chunk.css",
+    "static/js/main.7dd59154.chunk.js"
   ]
 }
