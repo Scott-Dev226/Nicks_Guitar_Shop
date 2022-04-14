@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Nicks_Guitar_Shop/static/css/main.c2eb3ffc.chunk.css",
-    "main.js": "/Nicks_Guitar_Shop/static/js/main.d641e661.chunk.js",
-    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.d641e661.chunk.js.map",
-    "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js",
-    "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.b0282f53.js.map",
+    "main.js": "/Nicks_Guitar_Shop/static/js/main.d51b27fa.chunk.js",
+    "main.js.map": "/Nicks_Guitar_Shop/static/js/main.d51b27fa.chunk.js.map",
+    "runtime-main.js": "/Nicks_Guitar_Shop/static/js/runtime-main.707ae864.js",
+    "runtime-main.js.map": "/Nicks_Guitar_Shop/static/js/runtime-main.707ae864.js.map",
     "static/css/2.6293a573.chunk.css": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css",
-    "static/js/2.ce102967.chunk.js": "/Nicks_Guitar_Shop/static/js/2.ce102967.chunk.js",
-    "static/js/2.ce102967.chunk.js.map": "/Nicks_Guitar_Shop/static/js/2.ce102967.chunk.js.map",
-    "static/js/3.5486195e.chunk.js": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js",
-    "static/js/3.5486195e.chunk.js.map": "/Nicks_Guitar_Shop/static/js/3.5486195e.chunk.js.map",
+    "static/js/2.e8eb547a.chunk.js": "/Nicks_Guitar_Shop/static/js/2.e8eb547a.chunk.js",
+    "static/js/2.e8eb547a.chunk.js.map": "/Nicks_Guitar_Shop/static/js/2.e8eb547a.chunk.js.map",
+    "static/js/3.947681e0.chunk.js": "/Nicks_Guitar_Shop/static/js/3.947681e0.chunk.js",
+    "static/js/3.947681e0.chunk.js.map": "/Nicks_Guitar_Shop/static/js/3.947681e0.chunk.js.map",
     "index.html": "/Nicks_Guitar_Shop/index.html",
     "static/css/2.6293a573.chunk.css.map": "/Nicks_Guitar_Shop/static/css/2.6293a573.chunk.css.map",
     "static/css/main.c2eb3ffc.chunk.css.map": "/Nicks_Guitar_Shop/static/css/main.c2eb3ffc.chunk.css.map",
-    "static/js/2.ce102967.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.ce102967.chunk.js.LICENSE.txt",
+    "static/js/2.e8eb547a.chunk.js.LICENSE.txt": "/Nicks_Guitar_Shop/static/js/2.e8eb547a.chunk.js.LICENSE.txt",
     "static/media/Store.css": "/Nicks_Guitar_Shop/static/media/alexandre-boto-3qz5a4P5p9s-unsplash.68707ab4.jpg",
     "static/media/hope.34969d44.mp4": "/Nicks_Guitar_Shop/static/media/hope.34969d44.mp4",
     "static/media/logo.6ce24c58.svg": "/Nicks_Guitar_Shop/static/media/logo.6ce24c58.svg",
@@ -25,10 +25,10 @@
     "static/media/Login.css": "/Nicks_Guitar_Shop/static/media/xie-lipton-SjrgIBKSLW0-unsplash.b4bc6f0c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0282f53.js",
+    "static/js/runtime-main.707ae864.js",
     "static/css/2.6293a573.chunk.css",
-    "static/js/2.ce102967.chunk.js",
+    "static/js/2.e8eb547a.chunk.js",
     "static/css/main.c2eb3ffc.chunk.css",
-    "static/js/main.d641e661.chunk.js"
+    "static/js/main.d51b27fa.chunk.js"
   ]
 }
